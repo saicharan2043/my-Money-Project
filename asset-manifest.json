@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-Money-Project/static/css/main.1a95e7ed.css",
+    "main.js": "/my-Money-Project/static/js/main.7d20c6eb.js",
+    "static/js/496.0b645906.chunk.js": "/my-Money-Project/static/js/496.0b645906.chunk.js",
+    "index.html": "/my-Money-Project/index.html",
+    "main.1a95e7ed.css.map": "/my-Money-Project/static/css/main.1a95e7ed.css.map",
+    "main.7d20c6eb.js.map": "/my-Money-Project/static/js/main.7d20c6eb.js.map",
+    "496.0b645906.chunk.js.map": "/my-Money-Project/static/js/496.0b645906.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a95e7ed.css",
+    "static/js/main.7d20c6eb.js"
+  ]
+}
